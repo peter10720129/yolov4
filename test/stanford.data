@@ -1,0 +1,6 @@
+classes= 40
+train  = build/darknet/x64/data/train.txt
+valid  = build/darknet/x64/data/val.txt
+names =  build/darknet/x64/data/stanford.names
+backup = backup/
+
